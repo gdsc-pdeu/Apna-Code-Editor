@@ -1,5 +1,9 @@
 # APNA-CODE-EDITOR
 
+## Author
+
+[Kunal Kumar Sahoo](https://github.com/Kunal-Kumar-Sahoo)
+
 ## Table of Contents
 
 ## Introduction
@@ -56,10 +60,6 @@ Step 4: Now run the program <br>
   ```bash
   user@desktop local/path $ python3 src/main.py
   ```
-
-## Author
-
-[Kunal Kumar Sahoo](https://github.com/Kunal-Kumar-Sahoo)
 
 ## Contribution Guidelines
 
